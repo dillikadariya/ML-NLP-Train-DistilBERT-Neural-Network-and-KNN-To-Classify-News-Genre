@@ -1,11 +1,11 @@
 import pandas as pd
 
 # Load train.csv
-train_df = pd.read_csv("/content/drive/MyDrive/ML final project NLP/train_data.csv")
+train_df = pd.read_csv("/content/drive/MyDrive/ML project NLP/train_data.csv")
 display(train_df)
 
 # Load test.csv
-test_df = pd.read_csv("/content/drive/MyDrive/ML final project NLP/test_data.csv")
+test_df = pd.read_csv("/content/drive/MyDrive/ML project NLP/test_data.csv")
 display(test_df)
 
 # train and test on a subset of data
